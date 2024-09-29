@@ -1,7 +1,7 @@
 import React from "react";
 import Input from "./Input";
 
-function Login(props) {
+function Login() {
   return (
     <form className="form">
       <Input type="text" placeholder="Username" />
